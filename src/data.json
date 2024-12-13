@@ -1,0 +1,382 @@
+{
+  "headerData": {
+    "logoDark": "/images/logo.svg",
+    "logoLight": "/images/logo-light.svg"
+  },
+  "heroData": {
+    "title": "My name<br />is <b>Sabuj</b> <span><br />Sangram...</span>",
+    "subTitle": "<span>Web Developer</span> based in <span>India</span>",
+    "ImgLink": "/images/home-banner.jpg",
+    "phone": "+91 7980905125",
+    "email": "codewithsabuj@gmail.com",
+    "btnText": "Work with me",
+    "socialData": [
+      {
+        "link": "",
+        "icon": "dribbble"
+      },
+      {
+        "link": "",
+        "icon": "instagram"
+      },
+      {
+        "link": "",
+        "icon": "facebook"
+      }
+    ]
+  },
+  "aboutData": {
+    "aboutLeft": {
+      "ImgLink": "/images/about-banner.jpg",
+      "name": "Sabuj Sangram",
+      "designation": "Web Developer <span>based in</span> India",
+      "resumeCv": "/Resume.pdf"
+    },
+    "aboutRight": {
+      "aboutText": "I am a skilled software and web developer with a passion for creating efficient, user-friendly applications and websites. With expertise in both front-end and back-end development, I thrive on solving complex problems and delivering high-quality solutions.",
+      "contactInfo": [
+        {
+          "icon": "phone",
+          "data": "+91 7980905125"
+        },
+        {
+          "icon": "person",
+          "data": "Sabuj Sangram"
+        },
+        {
+          "icon": "envelope",
+          "data": "codewithsabuj@gmail.com"
+        },
+        {
+          "icon": "map",
+          "data": "Kolkata, India"
+        }
+      ],
+      "archivement": [
+        {
+          "number": "3+",
+          "meta": "Years <br /> experience...",
+          "text": "Hello there! My name is <span>Sabuj</span>. I am a application/web developer, and Im very passionate and dedicated to my work."
+        },
+        {
+          "number": "15+",
+          "meta": "Clients <br /> Worldwide...",
+          "text": "With 3+ years experience as a professional Web Developer, I have acquired the skills to make your project a success."
+        }
+      ],
+      "note": "“What you envision, I bring to life through code”"
+    }
+  },
+  "experienceData": {
+    "text": "Hello there! My name is Sabuj. I am a web developer, and Im very passionate and dedicated to my work.",
+    "resumeCv": "/Resume.pdf",
+    "experience": [
+      {
+        "start": "Nov 2023",
+        "end": "Present",
+        "title": "Web Developer",
+        "subtitle": "Expand smERP"
+      },
+      {
+        "start": "Aug 2023",
+        "end": "Oct 2023",
+        "title": "React.js Developer",
+        "subtitle": "EMEI"
+      },
+      {
+        "start": "Jan 2023",
+        "end": "Feb 2023",
+        "title": "Data Analyst",
+        "subtitle": "School Dekho"
+      }
+    ]
+  },
+  "serviceData": [
+    {
+      "title": "Web Applications",
+      "heading": "Application developer skilled in building efficient and user-friendly solutions.",
+      "triger": "One",
+      "imgLink": "/images/ERPDashboard.webp",
+      "text": "As an application developer, I specialize in creating robust, user-centric applications that combine functionality and innovation to meet diverse needs."
+    },
+    {
+      "title": "MERN STACK",
+      "heading": "Specializing in the MERN stack ",
+      "triger": "Two",
+      "imgLink": "/images/MERN_Stack.png",
+      "text": "Specializing in the MERN stack, I excel at building dynamic, high-performance web applications with seamless user experiences"
+    },
+    {
+      "title": ".NET MVC and Core",
+      "heading": ".NET developer with expertise in crafting scalable and reliable applications.",
+      "triger": "Three",
+      "imgLink": "/images/dotnet.jpg",
+      "text": ".NET developer skilled in building scalable, secure, and high-performance applications. Experienced in delivering robust backend systems and user-friendly interfaces."
+    },
+    {
+      "title": "Python",
+      "heading": "Python developer proficient in building efficient applications and automating tasks.",
+      "triger": "Four",
+      "imgLink": "/images/pythonlogo.jpg",
+      "text": "Python developer with expertise in building scalable, efficient applications and automating complex processes. Skilled in data analysis, machine learning, and web development."
+    }
+  ],
+  "portfolioData": [
+    {
+      "ImgLink": "/images/ExpandWeb.png",
+      "subTitle": "Website",
+      "title": "Expand smER",
+      "link": "www.expanderp.com",
+      "paragraphList": [
+        {
+          "text": "I developed the website for Expand smERP, an ERP software company, using .NET MVC. The site is designed to provide a seamless user experience while showcasing the company's ERP solutions. It integrates with multiple APIs to enhance functionality, offering real-time data exchange and automation for businesses. The site also features a comprehensive ERP configuration system, enabling users to customize and optimize their workflows. The website serves as a dynamic platform, reflecting Expand smERP's commitment to delivering powerful, flexible ERP solutions for businesses of all sizes. You can explore the website at www.expanderp.com."
+         }
+ 
+      ]
+    },
+    {
+      "ImgLink": "/images/ExpandERPhome.png",
+      "subTitle": "ERP Software",
+      "title": "Expand smER",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": "I am responsible for creating and maintaining the front end of the Expand smERP software, utilizing the powerful .NET Core framework alongside Bootstrap for responsive, mobile-friendly designs. My work involves building intuitive user interfaces that enhance the user experience, while ensuring the application’s performance and functionality remain at the highest standards. By leveraging .NET Core's robust features and Bootstrap's flexible layout system, I deliver seamless, cross-platform solutions that cater to the unique needs of users. This combination allows Expand smERP to provide a modern, scalable, and responsive ERP solution for businesses looking to optimize their operations."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/besideu.png",
+      "subTitle": "Website",
+      "title": "BesideU",
+      "link": "besideu.vercel.app",
+      "paragraphList": [
+        {
+          "text": "I created a dynamic and responsive website for BesiteU, a digital marketing institute, using Next.js and Tailwind CSS. The site features a modern design, detailed course listings, success stories, and SEO-friendly architecture to attract and engage users effectively."
+        }
+      ]
+    }
+    
+  ],
+  "blogData": [
+    {
+      "ImgLink": "/images/blog-1.jpg",
+      "date": "12 July, 2022",
+      "delay": "700",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/blog-2.jpg",
+      "date": "11 July, 2022",
+      "delay": "800",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/blog-3.jpg",
+      "date": "10 July, 2022",
+      "delay": "900",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/blog-4.jpg",
+      "date": "10 July, 2022",
+      "delay": "1000",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        },
+        {
+          "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    }
+  ],
+  "sliderData": {
+    "testimonialInfo": {
+      "useFor": "testimonial",
+      "settings": {
+        "infinite": true,
+        "speed": 1500,
+        "autoplay": true,
+        "autoplaySpeed": 5000,
+        "slidesToShow": 2,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "dots": true,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 1,
+              "autoplay": true
+            }
+          }
+        ]
+      },
+      "info": [
+        {
+          "imgLink": "/images/Sahel.jpg",
+          "name": "Sahel Qureshi",
+          "designation": "React.js Developer",
+          "text": "Sabuj is an exceptional web developer who combines creativity and technical expertise to deliver outstanding results"
+        },
+        {
+          "imgLink": "/images/Subham.jpg",
+          "name": "Subham Mallick",
+          "designation": "MERN Stack Developer",
+          "text": "Sabuj Sangram is a skilled application developer who crafts innovative and reliable solutions with precision and expertise!"
+        },
+        {
+          "imgLink": "/images/sourav.jpg",
+          "name": "Saurav Mistry",
+          "designation": "Web Designer",
+          "text": "Sabuj is a skilled web developer who builds responsive, high-performance websites with a perfect blend of functionality and design."
+        },
+        {
+          "imgLink": "/images/pranab.jpg",
+          "name": "Pranab Das",
+          "designation": "Senior Developer",
+          "text": "Sabuj Sangram is a talented front-end developer who creates visually stunning, user-friendly interfaces with exceptional attention to detail."
+        }
+      ]
+    },
+    "brandInfo": {
+      "useFor": "brand",
+      "settings": {
+        "infinite": true,
+        "speed": 1000,
+        "autoplay": true,
+        "autoplaySpeed": 3000,
+        "slidesToShow": 5,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 4
+            }
+          },
+          {
+            "breakpoint": 767,
+            "settings": {
+              "slidesToShow": 3
+            }
+          }
+        ]
+      },
+      "info": [
+        {
+          "imgLink": "/images/brand-1.png"
+        },
+        {
+          "imgLink": "/images/brand-2.png"
+        },
+        {
+          "imgLink": "/images/brand-3.png"
+        },
+        {
+          "imgLink": "/images/brand-4.png"
+        },
+        {
+          "imgLink": "/images/brand-1.png"
+        },
+        {
+          "imgLink": "/images/brand-2.png"
+        }
+      ]
+    }
+  },
+  "contactData": {
+    "contactInfo": [
+      {
+        "icon": "chat-left-dots-fill",
+        "title": "Chat with me",
+        "text": "I am here to help.",
+        "emailLink": "codewithsabuj@gmail.com"
+      },
+      {
+        "icon": "compass",
+        "title": "Visit",
+        "text": "Come say hello at Action Area II, NewTown, Kolkata"
+      },
+      {
+        "icon": "phone",
+        "title": "Call",
+        "text": "Mon-Fri from 10am to 7pm. +91 7980905125"
+      }
+    ],
+    "contactForm": {
+      "title": "Got Ideas? We have got the skills. Lets team up.",
+      "text": "Tell us more about yourself and what you are got in mind."
+    }
+  },
+  "footerData": {
+    "ImgLink": "/images/about-banner.jpg",
+    "name": "Sabuj Sangram"
+  },
+  "socialData": [
+    {
+      "icon": "twitter",
+      "link": ""
+    },
+    {
+      "icon": "instagram",
+      "link": ""
+    },
+    {
+      "icon": "facebook",
+      "link": ""
+    },
+    {
+      "icon": "pinterest",
+      "link": ""
+    }
+  ]
+}
